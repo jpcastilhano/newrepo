@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\jp\\Downloads\\AgeGenderEstimationAndroidStudioProject\\android\\lib_interpreter\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\jp\\.gradle\\caches\\transforms-3\\79c4501053c75cc9efcafda0a6996ed5\\transformed\\core-1.1.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\jp\\Downloads\\AgeGenderEstimationAndroidStudioProject\\android\\lib_interpreter\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\jp\\.gradle\\caches\\transforms-3\\79c4501053c75cc9efcafda0a6996ed5\\transformed\\core-1.1.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\jp\\Downloads\\AgeGenderEstimationAndroidStudioProject\\android\\lib_interpreter\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\jp\\.gradle\\caches\\transforms-3\\79c4501053c75cc9efcafda0a6996ed5\\transformed\\core-1.1.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\jp\\Downloads\\AgeGenderEstimationAndroidStudioProject\\android\\lib_interpreter\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\jp\\.gradle\\caches\\transforms-3\\79c4501053c75cc9efcafda0a6996ed5\\transformed\\core-1.1.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]
